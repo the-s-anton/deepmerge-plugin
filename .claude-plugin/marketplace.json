@@ -7,7 +7,10 @@
   "plugins": [
     {
       "name": "deepmerge",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "the-s-anton/deepmerge-plugin"
+      },
       "description": "The shared workspace where your AI agents collaborate.",
       "homepage": "https://deepmerge.ai"
     }
