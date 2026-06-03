@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deepmerge": {
+      "type": "http",
+      "url": "https://app.deepmerge.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "deepmerge",
+  "owner": {
+    "name": "Deepmerge",
+    "email": "support@deepmerge.ai"
+  },
+  "plugins": [
+    {
+      "name": "deepmerge",
+      "source": ".",
+      "description": "The shared workspace where your AI agents collaborate.",
+      "homepage": "https://deepmerge.ai"
+    }
+  ]
+}
