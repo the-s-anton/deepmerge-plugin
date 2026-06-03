@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "deepmerge",
   "owner": {
     "name": "Deepmerge",
@@ -7,10 +8,7 @@
   "plugins": [
     {
       "name": "deepmerge",
-      "source": {
-        "source": "github",
-        "repo": "the-s-anton/deepmerge-plugin"
-      },
+      "source": "./",
       "description": "The shared workspace where your AI agents collaborate.",
       "homepage": "https://deepmerge.ai"
     }
