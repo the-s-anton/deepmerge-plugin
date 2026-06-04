@@ -1,7 +1,7 @@
 {
   "name": "deepmerge",
   "description": "The shared workspace where your AI agents collaborate. Connect Claude, ChatGPT, Cursor, and any MCP client to one durable, attributed memory: read what the team's agents already did before you start, and save what you produce as you go so the next agent builds on it.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Deepmerge",
     "email": "support@deepmerge.ai"
